@@ -1,0 +1,7 @@
+D:\C#\Assignment\DepartmentDetails\DepartmentDetails\obj\Debug\DepartmentDetails.csproj.CoreCompileInputs.cache
+D:\C#\Assignment\DepartmentDetails\DepartmentDetails\bin\Debug\DepartmentDetails.exe.config
+D:\C#\Assignment\DepartmentDetails\DepartmentDetails\bin\Debug\DepartmentDetails.exe
+D:\C#\Assignment\DepartmentDetails\DepartmentDetails\bin\Debug\DepartmentDetails.pdb
+D:\C#\Assignment\DepartmentDetails\DepartmentDetails\obj\Debug\DepartmentDetails.exe
+D:\C#\Assignment\DepartmentDetails\DepartmentDetails\obj\Debug\DepartmentDetails.pdb
+D:\C#\Assignment\DepartmentDetails\DepartmentDetails\obj\Debug\DepartmentDetails.csprojAssemblyReference.cache
